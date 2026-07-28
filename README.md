@@ -34,7 +34,7 @@ This project was engineered in pair-programming collaboration with **Google Deep
 Clone the repository and run the installer script:
 
 ```bash
-git clone https://github.com/your-username/XCDPI.git
+git clone https://github.com/muhammed-mert/XCDPI.git
 cd XCDPI
 ./install.sh
 ```
